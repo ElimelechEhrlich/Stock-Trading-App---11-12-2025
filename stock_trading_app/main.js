@@ -20,11 +20,9 @@ function app() {
                 filterStocksByPrice(givenPrice, above);
                 break;
             case 3:
-                console.table(stockMarket.stocks)
                 var identifier = question(`your search: `)
                 const operation = question(`operation (buy/sell): `)
                 OperateOnStock(operation, identifier);
-                console.table(stockMarket.stocks)
                 break;
             case 4:
                 return
