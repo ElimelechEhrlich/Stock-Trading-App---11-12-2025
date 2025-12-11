@@ -741,7 +741,3 @@ export const stockMarket = {
 };
 
 
-export {
-    stockMarket
-}
-
