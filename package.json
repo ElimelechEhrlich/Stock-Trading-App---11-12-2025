@@ -1,0 +1,23 @@
+{
+  "name": "stock-trading-app---11-12-2025",
+  "version": "1.0.0",
+  "description": "name: Elimelech Ehrlich\r id: 315592527\r class: Galil",
+  "homepage": "https://github.com/ElimelechEhrlich/Stock-Trading-App---11-12-2025#readme",
+  "bugs": {
+    "url": "https://github.com/ElimelechEhrlich/Stock-Trading-App---11-12-2025/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ElimelechEhrlich/Stock-Trading-App---11-12-2025.git"
+  },
+  "license": "ISC",
+  "author": "",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "readline-sync": "^1.4.10"
+  }
+}
